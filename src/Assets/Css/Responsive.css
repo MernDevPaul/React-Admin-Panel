@@ -1,0 +1,11 @@
+@media screen and (max-width: 580px) {
+  .action_head_left {
+    width: 100%;
+  }
+
+  .action_head_right {
+    width: 100%;
+    text-align: end;
+    justify-content: flex-end;
+  }
+}
